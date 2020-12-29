@@ -10,6 +10,7 @@ import json
 import hashlib
 from PIL import Image
 
+
 class Single(object):
   def __init__(self, file, manifest):
     self.file = file
